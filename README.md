@@ -15,7 +15,9 @@ solving aspect that comes with coding.  I have never been a great problem solver
 
 ## Goals
 
-As mentioned above, my main goal as I head into my second semester of my third year is to continue to improve my problem solving.  
+As mentioned above, my main goal as I head into my second semester of my third year is to continue to improve my problem solving. 
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,html,css,wasm)](https://skillicons.dev)
 
 
 
