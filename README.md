@@ -24,6 +24,6 @@ As mentioned above, my main goal as I head into my second semester of my third y
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=gitjava,python,html, discord, eclipse, git " />
   </a>
 </p>
