@@ -18,3 +18,6 @@ As mentioned above, my main goal as I head into my second semester of my third y
 
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,eclipse,git,vscode,python)](https://skillicons.dev)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seba3510&show_icons=true&locale=en&layout=compact" alt="seba3510" /></p>
+
