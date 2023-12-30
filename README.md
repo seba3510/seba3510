@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sebastiancorpo2" target="blank"><img src="https://img.shields.io/twitter/follow/sebastiancorpo2?logo=twitter&style=for-the-badge" alt="sebastiancorpo2" /></a> </p>
 
-- 🔭 I’m currently working on [Rock Paper Scissors](https://github.com/seba3510/Rock-Paper-Scissors)
+- 🔭 I’m currently working on [Etch-a-Sketch](https://github.com/seba3510/Etch-a-Sketch)
 
 - 🌱 I’m currently learning **The Odin Project**
 
