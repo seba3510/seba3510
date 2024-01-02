@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sebastian Corporan Berrios</h1>
+<h1 align="center">Sebastian Corporan Berrios</h1>
 <h3 align="center">A passionate Computer Science student at the University of Puerto Rico at Bayamon</h3>
 
 
 
-- 🔭 I’m currently working on [Etch-a-Sketch](https://github.com/seba3510/Etch-a-Sketch)
+- 🔭 I’m currently working on [Calculator](https://github.com/seba3510/Calculator)
 
 - 🌱 I’m currently learning **The Odin Project**
 
