@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Library](https://github.com/seba3510/Library)
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I can touch type**
 
