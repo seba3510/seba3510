@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Library](https://github.com/seba3510/Library)
+- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/seba3510/Tic-Tac-Toe)
 
 - 🌱 I’m currently learning **JavaScript**
 
