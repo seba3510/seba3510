@@ -1,5 +1,5 @@
 <h1 align="center">Sebastian Corporan Berrios</h1>
-<h3 align="center">A passionate Computer Science student at the University of Puerto Rico at Bayamon</h3>
+<h3 align="center">Computer Science student at the University of Puerto Rico at Bayamon</h3>
 
 
 
