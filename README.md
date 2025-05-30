@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/seba3510/Tic-Tac-Toe)
+- 🔭 I’m currently working on [Restaurant Page](https://github.com/seba3510/restaurant-page)
 
 - 🌱 I’m currently learning **JavaScript**
 
