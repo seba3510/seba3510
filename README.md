@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I can touch type**
+- ⚡ Fun fact **I can touch type**\
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
