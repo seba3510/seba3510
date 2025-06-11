@@ -14,7 +14,7 @@ Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayam
 </p>
 
 <p>
-I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the JavaScript curriculum in The Odin Project, a self-paced open-source web development curriculum.
+I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript">JavaScript Course</a> offered by <a href>The Odin Project</a>, a self-paced open-source web development curriculum.
 </p>
 
 <p>
