@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I can touch type**\
+- ⚡ Fun fact **I can touch type**
 
 <p align="left">
 </p>
