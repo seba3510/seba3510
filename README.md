@@ -1,18 +1,36 @@
 <h1 align="center">Hi 👋, I'm Sebastian Corporan Berrios</h1>
 
 <section>
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ##About Me
 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>
+<span>
+	<strong>About me</strong>
+</span>
+
+<img src="./assets/daniel-and-johnny.gif" align="right" width="200px" alt="Daniel and Johnny"/>
+
+<p>
 Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.
+</p>
 
 <p>
 I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the JavaScript curriculum in The Odin Project, a self-paced open-source web development curriculum.
 </p>
 
 <p>
-In addition, I'm participating in CodePath’s Intermediate Web Development Course (WEB-102). This is a hands-on, 10-unit course that emphasizes building real-world web applications while strengthening intermediate-level coding skills.
+In addition, I'm currently participating in CodePath’s Intermediate Web Development Course (WEB-102). This is a hands-on, 10-unit course that emphasizes building real-world web applications while strengthening intermediate-level coding skills.
 </p>
+</section>
 
+<section>
+	<h2>Hobbies</h2>
+	<ul>
+		<li>Practicing my touch typing skills</li>
+		<li>Listening to Music</li>
+		<li>Re-watching "Cobra Kai" for like the millionth time</li>
+		<li>Playing Basketball</li>
+		<li>Watching NBA games</li>
+	</ul>
 </section>
 
 <section>
