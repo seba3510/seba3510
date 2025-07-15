@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.<br><br>I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the JavaScript Course offered by <a href="https://www.theodinproject.com/">The Odin Project</a>, a self-paced open-source web development curriculum.<br><br>In addition, I'm currently participating in <a href="https://www.codepath.org/">CodePath's</a> Intermediate Web Development Course (WEB-102). This is a hands-on, 10-unit course that emphasizes building real-world web applications while strengthening intermediate-level coding skills. 
+ Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.<br><br>I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the [JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) offered by [The Odin Project](https://www.theodinproject.com/), a self-paced open-source web development curriculum.<br><br>In addition, I'm currently participating in CodePath’s Intermediate Web Development Course (WEB-102). This is a hands-on, 10-unit course that emphasizes building real-world web applications while strengthening intermediate-level coding skills. 
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seba3510&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=seba3510&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
