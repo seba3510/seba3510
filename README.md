@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.<br><br>I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the [JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) offered by [The Odin Project](https://www.theodinproject.com/), a self-paced open-source web development curriculum.
+ Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.<br><br>I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the [JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) offered by [The Odin Project](https://www.theodinproject.com/), a self-paced open-source web development curriculum.  I also am a [CodePath fellow](https://www.codepath.org/).
 
 
 # 💻 Tech Stack:
