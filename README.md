@@ -1,6 +1,5 @@
 # 💫 About Me:
- Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.<br><br>I'm passionate about Web Development, especially front-end. To deepen my knowledge, I'm currently working through the [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs).
-
+ Hi there! I'm a Computer Science student at the University of Puerto Rico, Bayamón Campus, currently pursuing a degree with an emphasis on Information Systems.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
